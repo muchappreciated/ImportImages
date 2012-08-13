@@ -1,1 +1,8 @@
 This file was created by IntelliJ IDEA 11.1.3 for binding GitHub repository
+
+Import CR2 images to this tree YYYY\MM\YYYY_MM_DD\file.cr2 without having to install everything ever made by Canon.
+
+Usage: importImages [Input Directory] [Output Directory Start]
+E.g. importImage "F:\externalDrive\DCIM" "C:\Photos"
+
+Use included .bat and compiled .jar in /bin folder

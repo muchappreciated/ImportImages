@@ -5,4 +5,4 @@ Import CR2 images to this tree YYYY\MM\YYYY_MM_DD\file.cr2 without having to ins
 Usage: importImages [Input Directory] [Output Directory Start]
 E.g. importImage "F:\externalDrive\DCIM" "C:\Photos"
 
-Use included .bat and compiled .jar in /bin folder
+Use included .bat and compiled .jar in /ImportImages folder
